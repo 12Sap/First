@@ -5,7 +5,7 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background: url("First/download.jpeg") center/cover no-repeat;
+    background: url("download.jpeg") center/cover no-repeat;
     color: #fff;
 }
 
